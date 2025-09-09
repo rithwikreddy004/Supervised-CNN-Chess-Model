@@ -27,9 +27,5 @@ Traditional chess engines use Minimax search and heuristics to evaluate moves. T
 - **Pandas**: Dataset preprocessing  
 - **Chess Python Library**: Parsing and handling FENs
 
-## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/supervised-cnn-chess.git
 
