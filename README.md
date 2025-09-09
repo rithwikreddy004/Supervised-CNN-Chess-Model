@@ -28,4 +28,7 @@ Traditional chess engines use Minimax search and heuristics to evaluate moves. T
 - **Chess Python Library**: Parsing and handling FENs
 
 
+<img width="1339" height="703" alt="Screenshot 2025-09-09 110116" src="https://github.com/user-attachments/assets/36dfbd94-7c67-4cbb-ae8b-44d1f6397cc4" />
+
+
 
